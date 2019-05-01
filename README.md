@@ -1,2 +1,1 @@
-# todo.io
-to do list application with group tasks, individual tasks, alarms, etc.
+COM S 362 TODO Project
